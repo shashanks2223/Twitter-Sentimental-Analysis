@@ -1,0 +1,6 @@
+{
+  "name": "SentimentSpark - Real-Time Analysis",
+  "description": "Live sentiment dashboard for Twitter trends using PySpark-inspired streaming and Gemini AI classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
